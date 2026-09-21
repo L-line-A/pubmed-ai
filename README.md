@@ -56,4 +56,4 @@ python pubmed_ai.py
 
 如果这个工具帮你节省了时间，可以请我喝杯咖啡 ☕
 
-[GitHub Sponsors](https://github.com/sponsors/你的用户名) · [爱发电](https://afdian.com/a/你的ID)
+[GitHub Sponsors](https://github.com/sponsors/L-line-A) · [爱发电](https://afdian.com/a/L-line-A)

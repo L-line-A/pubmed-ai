@@ -16,7 +16,7 @@
 
 ### 方式一：直接使用 exe（无需 Python）
 
-1. 到 [Releases](../../releases) 下载 `PubMedAI检索.exe`、`配置设置.exe`、`清理痕迹.exe` 三个文件；
+1. 到 [Releases](../../releases) 下载 `PubMedAI-Search.exe`、`ConfigTool.exe`、`CleanTool.exe` 三个文件；
 2. 双击 `配置设置.exe`，填入 DeepSeek API Key 和邮箱（在 [platform.deepseek.com](https://platform.deepseek.com) 免费获取）；
 3. 双击 `PubMedAI检索.exe`，输入研究主题即可。
 
